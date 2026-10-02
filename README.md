@@ -2,17 +2,19 @@
 
 ## Project Overview
 
-This Power BI project analyzes employee satisfaction, workplace experience, accessibility, and workplace facilities across three locations:
+A real-world Power BI data analytics project focused on analyzing employee workplace experience, accessibility, facilities, and satisfaction across multiple workplace locations.
 
-- Hilite
-- Cyberpark
-- Business Park
-
-The analysis is based on survey data collected from 60 employees.
+The project uses employee feedback data to compare workplace performance, identify key facility-related issues, and generate actionable business insights.
 
 ## Objective
 
-The objective of this project is to understand employee workplace experience, identify facility-related issues, compare workplace performance, and highlight areas that require improvement.
+The objective of this project is to:
+
+- Analyze employee workplace experience
+- Evaluate accessibility and workplace facilities
+- Compare performance across different workplace locations
+- Identify areas requiring improvement
+- Generate actionable recommendations based on data
 
 ## Key Metrics
 
@@ -23,20 +25,20 @@ The objective of this project is to understand employee workplace experience, id
 
 ## Key Insights
 
-- Traffic & Commute received the lowest average rating among the measured dimensions.
+- Traffic & Commute recorded the lowest average rating among the measured dimensions.
 - Parking received the highest average facility rating.
 - Business Park recorded the highest overall accessibility score.
 - Cyberpark recorded the lowest overall accessibility score.
 - Traffic/Commute was the most frequently reported area needing improvement.
-- Most respondents rated their overall workplace experience as Good or Excellent.
+- 88.3% of respondents rated their overall workplace experience as Good or Excellent.
 
 ## Recommendations
 
 - Improve traffic and commute-related facilities.
 - Review elevator-related issues at Business Park.
 - Investigate security and food accessibility concerns at Cyberpark.
-- Identify successful workplace practices and apply them across other locations.
-- Conduct regular employee feedback surveys.
+- Identify and replicate successful workplace practices across locations.
+- Conduct regular employee feedback analysis to monitor workplace experience.
 
 ## Tools & Technologies
 
@@ -45,11 +47,7 @@ The objective of this project is to understand employee workplace experience, id
 - Microsoft Excel
 - Data Analysis
 - Data Visualization
-- Dashboard Design
-
-## Project Type
-
-**Academic / Real-World Data Analytics Project**
+- Business Intelligence
 
 ## Skills Demonstrated
 
@@ -61,3 +59,7 @@ The objective of this project is to understand employee workplace experience, id
 - Interactive Dashboard Development
 - Business Insights
 - Data Storytelling
+
+## Project Type
+
+**Real-World Data Analytics Project**
