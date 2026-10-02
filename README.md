@@ -8,79 +8,56 @@ This Power BI project analyzes employee satisfaction, workplace experience, acce
 - Cyberpark
 - Business Park
 
-The analysis is based on survey data collected from **60 employees**.
+The analysis is based on survey data collected from 60 employees.
 
-## Dashboard
+## Objective
 
-### 1. Workplace Experience Overview
-
-![Workplace Experience Overview](Dashboard1.png)
-
-This dashboard provides an overview of:
-
-- Total Respondents
-- Average Workplace Rating
-- Average Accessibility Rating
-- Overall Satisfaction
-- Respondents by Workplace
-- Respondents by Work Mode
-- Work Experience Distribution
-
-### 2. Workplace Accessibility & Facilities
-
-![Workplace Accessibility & Facilities](Dashboard2.png)
-
-This dashboard analyzes:
-
-- Parking
-- Elevators
-- Security
-- Traffic / Commute
-- Food & Essential Items
-- Accessibility
-- Facility ratings by workplace
-- Areas needing improvement
-- Overall workplace rating distribution
+The objective of this project is to understand employee workplace experience, identify facility-related issues, compare workplace performance, and highlight areas that require improvement.
 
 ## Key Metrics
 
-| Metric | Result |
-|---|---:|
-| Total Respondents | 60 |
-| Avg Workplace Rating | 4.28 / 5 |
-| Avg Accessibility Rating | 4.20 / 5 |
-| Overall Satisfaction | 88.3% |
+- **Total Respondents:** 60
+- **Average Workplace Rating:** 4.28 / 5
+- **Average Accessibility Rating:** 4.20 / 5
+- **Overall Satisfaction:** 88.3%
 
 ## Key Insights
 
-- **Traffic & Commute** is the lowest-rated accessibility dimension with an average score of **3.47/5**.
-- **Parking** has the highest average facility rating at **4.38/5**.
-- **Business Park** has the highest overall accessibility score at **4.42/5**.
-- **Cyberpark** has the lowest overall accessibility score at **3.93/5**.
-- **Traffic/Commute** was identified as the most frequently reported area needing improvement.
-- **88.3% of respondents** rated their overall workplace experience as Good or Excellent.
+- Traffic & Commute received the lowest average rating among the measured dimensions.
+- Parking received the highest average facility rating.
+- Business Park recorded the highest overall accessibility score.
+- Cyberpark recorded the lowest overall accessibility score.
+- Traffic/Commute was the most frequently reported area needing improvement.
+- Most respondents rated their overall workplace experience as Good or Excellent.
 
 ## Recommendations
 
-- Explore solutions for improving traffic and commute experience.
+- Improve traffic and commute-related facilities.
 - Review elevator-related issues at Business Park.
 - Investigate security and food accessibility concerns at Cyberpark.
-- Identify successful practices at Business Park that could be applied to other locations.
-- Conduct regular employee feedback surveys to monitor workplace experience.
+- Identify successful workplace practices and apply them across other locations.
+- Conduct regular employee feedback surveys.
 
-## Tools Used
+## Tools & Technologies
 
 - Power BI
-- Data Visualization
-- Data Analysis
-- Dashboard Design
 - DAX
 - Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Dashboard Design
 
 ## Project Type
 
 **Academic / Real-World Data Analytics Project**
 
-### Dashboard Preview
+## Skills Demonstrated
 
-The dashboards were designed to provide an interactive view of workplace experience, accessibility, facilities, and employee satisfaction.
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- DAX
+- KPI Development
+- Interactive Dashboard Development
+- Business Insights
+- Data Storytelling
